@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body{
+    margin: 0px;
+}
+.background-header{
+    background-color: rgb(241, 188, 137);
+}
+
+.navstyle{
+    float:right;
+    margin-top: 100px;
+    margin-right: 80px;
+    font-family: 'Raleway';
+    font-size: 18px;
+    word-spacing: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 3px 5px black;
+}
+
+.footer{
+    position: relative;
+    bottom: 0%;
+    width: 100%;
+    margin: 0px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Raleway';
+    background-color: rgb(201, 155, 112);
+}
+
+.products{
+    padding: 15px;
+    margin: 25px;
+    border: 2px #000 solid;
+    border-radius: 10px;
+}
+
+.products:hover{
+    border: 2px rgb(241, 188, 137) solid;
+
+}
+
+.products:hover h2{
+    font-size: 28px;
+}
+
+h2{
+    margin: 2px;
+}
+
+h2:hover{
+    margin: 2px;
+}
+
+
+.container{
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+p{
+    margin: 0px;
+}
+
+.product-image{
+    margin: 15px;
+}
