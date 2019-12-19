@@ -1,0 +1,33 @@
+{
+  "profile": [
+    {
+      "name": "gasbriel s t",
+      "email": "gasbriel@gasbriel",
+      "id": 1
+    },
+    {
+      "name": "hallo",
+      "email": "hallo@hallo",
+      "id": 2
+    },
+    {
+      "name": "vstu",
+      "email": "@@b",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "b",
+      "email": "b@c",
+      "id": 1
+    }
+  ]
+}
