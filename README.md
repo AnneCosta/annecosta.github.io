@@ -1,7 +1,7 @@
 ## Blog da Anne :p
 
 Este repositório tem o objetivo de, além estudos relacionados a html/css puro, também é um meio de
-compreender a criação de páginas web através do **.github.io.
+compreender a criação de páginas web através do .github.io.
 
 Nele, trarei breves informações a respeito do que faço na faculdade, os assuntos que trabalho por fora
 e, também, os sites que crio, seja por projetos escolares ou independentemente, como é o caso deste blog.
