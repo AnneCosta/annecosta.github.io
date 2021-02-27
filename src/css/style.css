@@ -125,4 +125,7 @@ body, html {
   .tabcontent{
     width: 100%;
   }
+  .info{
+    margin-right: 0;
+  }
 }
