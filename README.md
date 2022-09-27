@@ -5,5 +5,5 @@ Nele, trarei breves informações a respeito do que faço na faculdade, os assun
 
 Espero que as pessoas que aqui apareçam tomem cada informação publicada aqui como um meio de consulta / novos meios de apresentar a mesma informação, preocupando-se com responsividade e design de sites.
 
-> Intuitive design is how we give the user new superpowers.
->                      ― Jared Spool, Web Site Usability: A Designer's Guide
+> *Intuitive design is how we give the user new superpowers.* <br>
+>  ㅤㅤㅤㅤ― *Jared Spool, Web Site Usability: A Designer's Guide*
